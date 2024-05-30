@@ -2,6 +2,27 @@
 
 Apologies for the mess. I'm still in the process of organizing things here.
 
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; margin: 10px;">
+    <!-- Content for the first column -->
+    <h3>Where To Find Me</h3>
+    <p></p>
+  </div>
+
+  <div style="flex: 1; margin: 10px;">
+    <!-- Content for the second column -->
+    <h3>Main Projects</h3>
+    <p></p>
+  </div>
+
+  <div style="flex: 1; margin: 10px;">
+    <!-- Content for the third column -->
+    <h3>Cool Tools</h3>
+    <p>[DuplicateHunter](https://github.com/Isotton1/DuplicateHunter)</p>
+  </div>
+
+</div>
 <!--
 **Isotton1/Isotton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
