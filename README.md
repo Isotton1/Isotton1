@@ -7,19 +7,19 @@ Apologies for the mess. I'm still in the process of organizing things here.
   <div style="flex: 1; margin: 10px;">
     <!-- Content for the first column -->
     <h3>Where To Find Me</h3>
-    <p href="linkedin.com/in/enzoisotton/?locale=en_US">Linkedin</p>
+    <a href="linkedin.com/in/enzoisotton/?locale=en_US">Linkedin</a>
   </div>
 
   <div style="flex: 1; margin: 10px;">
     <!-- Content for the second column -->
     <h3>Main Projects</h3>
-    <p>nu</p>
+    <a>nu</a>
   </div>
 
   <div style="flex: 1; margin: 10px;">
     <!-- Content for the third column -->
     <h3>Cool Tools</h3>
-    <p href="https://github.com/Isotton1/DuplicateHunter">DuplicateHunter</p>
+    <a href="https://github.com/Isotton1/DuplicateHunter">DuplicateHunter</a>
   </div>
 
 </div>
