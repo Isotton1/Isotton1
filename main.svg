@@ -3,7 +3,7 @@
         <body xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container {
-                    background-color: #161b22f2;
+                    background-color: #f6f8fa;
                     color: white;
                 }
                 @media (prefers-color-scheme: light) {
