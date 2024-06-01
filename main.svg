@@ -1,0 +1,20 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject x="0" y="0" width="600" height="400">
+        <body xmlns="http://www.w3.org/1999/xhtml">
+            <div style="display: flex; justify-content: space-between;">
+                <div style="flex: 1; margin: 10px;">
+                    <h3>Where To Find Me</h3>
+                    <a href="linkedin.com/in/enzoisotton/?locale=en_US">Linkedin</a>
+                </div>
+                <div style="flex: 1; margin: 10px;">
+                    <h3>Main Projects</h3>
+                    <a>nu</a>
+                </div>
+                <div style="flex: 1; margin: 10px;">
+                    <h3>Cool Tools</h3>
+                    <a href="https://github.com/Isotton1/DuplicateHunter">DuplicateHunter</a>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>
