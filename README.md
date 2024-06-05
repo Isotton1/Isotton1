@@ -2,6 +2,20 @@
 
 Apologies for the mess. I'm still in the process of organizing things here.
 
+<details open> 
+  <summary><h2>🔥 Main Projects</h2></summary>
+  <p align="left">
+    <a href="https://github.com/Isotton1/nu"><img width="278" src="" alt="nu"></a>
+  </p>
+</details>
+
+<details open> 
+  <summary><h2>❄️🔨 Cool Tools</h2></summary>
+  <p align="left">
+    <a href="https://github.com/Isotton1/DuplicateHunter"><img width="278" src="duplicatehunter.svg" alt="DuplicateHunter"></a>
+  </p>
+</details>
+
 <div style="width: 100%;">
   <img src="main.svg" style="width: 100%;" alt="Click to see the source">
 </div>
